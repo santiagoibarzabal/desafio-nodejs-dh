@@ -1,5 +1,5 @@
 ## Digital House - Comisión Turno Noche 22 - Pablo y Santi. 
-### Resolución del ejerecicio integrador del módulo de node.js. 
+### Resolución del ejercicio integrador del módulo de node.js. 
 
 El repositorio contiene los siguientes archivos: 
 
